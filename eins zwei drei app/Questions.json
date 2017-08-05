@@ -25,7 +25,7 @@
  },
  {
  "question": "Seven",
- "answer": "Seiben"
+ "answer": "Sieben"
  },
  {
  "question": "Eight",
@@ -154,5 +154,449 @@
  {
  "question": "Thirty nine",
  "answer": "Neununddreißig"
+ },
+ {
+ "question": "Forty",
+ "answer": "Vierzig"
+ },
+ {
+ "question": "Forty one",
+ "answer": "Einundvierzig"
+ },
+ {
+ "question": "Forty two",
+ "answer": "Zweiundvierzig"
+ },
+ {
+ "question": "Forty three",
+ "answer": "Dreiundvierzig"
+ },
+ {
+ "question": "Forty four",
+ "answer": "Vierundvierzig"
+ },
+ {
+ "question": "Forty five",
+ "answer": "Fünfundvierzig"
+ },
+ {
+ "question": "Forty six",
+ "answer": "Sechsundvierzig"
+ },
+ {
+ "question": "Forty seven",
+ "answer": "Siebundvierzig"
+ },
+ {
+ "question": "Forty eight",
+ "answer": "Achtundvierzig"
+ },
+ {
+ "question": "Forty nine",
+ "answer": "Neunundvierzig"
+ },
+ {
+ "question": "Fifty",
+ "answer": "Fünfzig"
+ },
+ {
+ "question": "Fifty one",
+ "answer": "Einundfünfzig"
+ },
+ {
+ "question": "Fifty two",
+ "answer": "Zweiundfünfzig"
+ },
+ {
+ "question": "Fifty three",
+ "answer": "Dreiundfünfzig"
+ },
+ {
+ "question": "Fifty four",
+ "answer": "Vierundfünfzig"
+ },
+ {
+ "question": "Fifty five",
+ "answer": "Fünfundfünfzig"
+ },
+ {
+ "question": "Fifty six",
+ "answer": "Sechsundfünfzig"
+ },
+ {
+ "question": "Fifty seven",
+ "answer": "Siebundfünfzig"
+ },
+ {
+ "question": "Fifty eight",
+ "answer": "Achtundfünfzig"
+ },
+ {
+ "question": "Fifty nine",
+ "answer": "Neunundfünfzig"
+ },
+ {
+ "question": "Sixty",
+ "answer": "Sechzig"
+ },
+ {
+ "question": "Sixty one",
+ "answer": "Einundsechzig"
+ },
+ {
+ "question": "Sixty two",
+ "answer": "Zweiundsechzig"
+ },
+ {
+ "question": "Sixty three",
+ "answer": "Dreiundsechzig"
+ },
+ {
+ "question": "Sixty four",
+ "answer": "Vierundsechzig"
+ },
+ {
+ "question": "Sixty five",
+ "answer": "Fünfundsechzig"
+ },
+ {
+ "question": "Sixty six",
+ "answer": "Sechsundsechzig"
+ },
+ {
+ "question": "Sixty seven",
+ "answer": "Siebundsechzig"
+ },
+ {
+ "question": "Sixty eight",
+ "answer": "Achtundsechzig"
+ },
+ {
+ "question": "Sixty nine",
+ "answer": "Neunundsechzig"
+ },
+{
+ "question": "Seventy",
+ "answer": "Siebzig"
+ },
+ {
+ "question": "Seventy one",
+ "answer": "Einundsiebzig"
+ },
+ {
+ "question": "Seventy two",
+ "answer": "Zweiundsiebzig"
+ },
+ {
+ "question": "Seventy three",
+ "answer": "Dreiundsiebzig"
+ },
+ {
+ "question": "Seventy four",
+ "answer": "Vierundsiebzig"
+ },
+ {
+ "question": "Seventy five",
+ "answer": "Fünfundsiebzig"
+ },
+ {
+ "question": "Seventy six",
+ "answer": "Sechsundsiebzig"
+ },
+ {
+ "question": "Seventy seven",
+ "answer": "Siebundsiebzig"
+ },
+ {
+ "question": "Seventy eight",
+ "answer": "Achtundsiebzig"
+ },
+ {
+ "question": "Seventy nine",
+ "answer": "Neunundsiebzig"
+ },
+{
+ "question": "Eighty",
+ "answer": "Achtzig"
+ },
+ {
+ "question": "Eighty one",
+ "answer": "Einundachtzig"
+ },
+ {
+ "question": "Eighty two",
+ "answer": "Zweiundachtzig"
+ },
+ {
+ "question": "Eighty three",
+ "answer": "Dreiundachtzig"
+ },
+ {
+ "question": "Eighty four",
+ "answer": "Vierundachtzig"
+ },
+ {
+ "question": "Eighty five",
+ "answer": "Fünfundachtzig"
+ },
+ {
+ "question": "Eighty six",
+ "answer": "Sechsundachtzig"
+ },
+ {
+ "question": "Eighty seven",
+ "answer": "Siebundachtzig"
+ },
+ {
+ "question": "Eighty eight",
+ "answer": "Achtundachtzig"
+ },
+ {
+ "question": "Eighty nine",
+ "answer": "Neunundachtzig"
+ },
+{
+ "question": "Ninety",
+ "answer": "Neunzig"
+ },
+ {
+ "question": "Ninety one",
+ "answer": "Einundneunzig"
+ },
+ {
+ "question": "Ninety two",
+ "answer": "Zweiundneunzig"
+ },
+ {
+ "question": "Ninety three",
+ "answer": "Dreiundneunzig"
+ },
+ {
+ "question": "Ninety four",
+ "answer": "Vierundneunzig"
+ },
+ {
+ "question": "Ninety five",
+ "answer": "Fünfundneunzig"
+ },
+ {
+ "question": "Ninety six",
+ "answer": "Sechsundneunzig"
+ },
+ {
+ "question": "Ninety seven",
+ "answer": "Siebundneunzig"
+ },
+ {
+ "question": "Ninety eight",
+ "answer": "Achtundneunzig"
+ },
+ {
+ "question": "Ninety nine",
+ "answer": "Neunundneunzig"
+ },
+{
+ "question": "One hundred",
+ "answer": "Einhundert"
+ },
+ {
+ "question": "One hundred one",
+ "answer": "Einhunderteins"
+ },
+ {
+ "question": "One hundred two",
+ "answer": "Einhundertzwei"
+ },
+ {
+ "question": "One hundred three",
+ "answer": "Einhundertdrei"
+ },
+ {
+ "question": "One hundred four",
+ "answer": "Einhundertvier"
+ },
+ {
+ "question": "One hundred five",
+ "answer": "Einhundertfünf"
+ },
+ {
+ "question": "One hundred six",
+ "answer": "Einhundertsechs"
+ },
+ {
+ "question": "One hundred seven",
+ "answer": "Einhundertsieben"
+ },
+ {
+ "question": "One hundred eight",
+ "answer": "Einhundertacht"
+ },
+ {
+ "question": "One hundred nine",
+ "answer": "Einhundertneun"
+ },
+{
+ "question": "One hundred ten",
+ "answer": "Einhundertzehn"
+ },
+ {
+ "question": "One hundred eleven",
+ "answer": "Einhundertelf"
+ },
+ {
+ "question": "One hundred twelve",
+ "answer": "Einhundertzwölf"
+ },
+ {
+ "question": "One hundred thirteen",
+ "answer": "Einhundertdreizehn"
+ },
+ {
+ "question": "One hundred fourteen",
+ "answer": "Einhundertvierzehn"
+ },
+ {
+ "question": "One hundred fifteen",
+ "answer": "Einhundertfünfachtzehn"
+ },
+ {
+ "question": "One hundred sixteen",
+ "answer": "Einhundertsechzehn"
+ },
+ {
+ "question": "One hundred seventeen",
+ "answer": "Einhundertsiebzehn"
+ },
+ {
+ "question": "One hundred eighteen",
+ "answer": "Einhundertachtzehn"
+ },
+ {
+ "question": "One hundred nineteen",
+ "answer": "Einhundertneunzehn"
+ },
+{
+ "question": "One hundred twenty",
+ "answer": "Einhundertzwanzig"
+ },
+ {
+ "question": "One hundred twenty one",
+ "answer": "Einhunderteinundzwanzig"
+ },
+ {
+ "question": "One hundred twenty two",
+ "answer": "Einhundertzweiundzwanzig"
+ },
+ {
+ "question": "One hundred twenty three",
+ "answer": "Einhundertdreiundzwanzig"
+ },
+ {
+ "question": "One hundred twenty four",
+ "answer": "Einhundertvierundzwanzig"
+ },
+ {
+ "question": "One hundred twenty five",
+ "answer": "Einhundertfünfundzwanzig"
+ },
+ {
+ "question": "One hundred twenty six",
+ "answer": "Einhundertsechsundzwanzig"
+ },
+ {
+ "question": "One hundred twenty seven",
+ "answer": "Einhundertsiebundzwanzig"
+ },
+ {
+ "question": "One hundred twenty eight",
+ "answer": "Einhundertachtundzwanzig"
+ },
+ {
+ "question": "One hundred twenty nine",
+ "answer": "Einhundertneunundzwanzig"
+ },
+{
+ "question": "One hundred thirty",
+ "answer": "Einhundertdreißig"
+ },
+ {
+ "question": "One hundred thirty",
+ "answer": "Einhunderteinunddreißig"
+ },
+ {
+ "question": "One hundred thirty two",
+ "answer": "Einhundertzweiunddreißig"
+ },
+ {
+ "question": "One hundred thirty three",
+ "answer": "Einhundertdreiunddreißig"
+ },
+ {
+ "question": "One hundred thirty four",
+ "answer": "Einhundertvierunddreißig"
+ },
+ {
+ "question": "One hundred thirty five",
+ "answer": "Einhundertfünfunddreißig"
+ },
+ {
+ "question": "One hundred thirty six",
+ "answer": "Einhundertsechsunddreißig"
+ },
+ {
+ "question": "One hundred thirty seven",
+ "answer": "Einhundertsiebunddreißig"
+ },
+ {
+ "question": "One hundred thirty eight",
+ "answer": "Einhundertachtunddreißig"
+ },
+ {
+ "question": "One hundred thirty nine",
+ "answer": "Einhundertneununddreißig"
+ },
+{
+ "question": "One hundred forty",
+ "answer": "Einhundertvierßig"
+ },
+ {
+ "question": "One hundred forty one",
+ "answer": "Einhunderteinundvierßig"
+ },
+ {
+ "question": "One hundred forty two",
+ "answer": "Einhundertzweiundvierßig"
+ },
+ {
+ "question": "One hundred forty three",
+ "answer": "Einhundertdreiundvierßig"
+ },
+ {
+ "question": "One hundred forty four",
+ "answer": "Einhundertvierundvierßigg"
+ },
+ {
+ "question": "One hundred forty five",
+ "answer": "Einhundertfünfundvierßig"
+ },
+ {
+ "question": "One hundred forty six",
+ "answer": "Einhundertsechsundvierßig"
+ },
+ {
+ "question": "One hundred forty seven",
+ "answer": "Einhundertsiebundvierßig"
+ },
+ {
+ "question": "One hundred forty eight",
+ "answer": "Einhundertachtundvierßig"
+ },
+ {
+ "question": "One hundred forty nine",
+ "answer": "Einhundertneunundvierßig"
+ },
+{
+ "question": "One hundred fifty",
+ "answer": "Einhundertfünfzig"
  }
- ]
+]
